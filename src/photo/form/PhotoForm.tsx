@@ -452,7 +452,7 @@ export default function PhotoForm({
         '*:py-2',
       )}>
         <span className="flex gap-4 max-sm:hidden">
-          <span>Photo Details</span>
+          <span>照片 细节</span>
           <span className="text-extra-extra-dim">/</span>
         </span>
         {FORM_SECTIONS.map(section => (
